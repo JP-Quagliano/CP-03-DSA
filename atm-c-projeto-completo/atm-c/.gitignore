@@ -1,0 +1,15 @@
+# Executaveis gerados
+atm
+atm.exe
+*.out
+*.o
+
+# Arquivos temporarios
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Backup de editores
+*~
+*.bak

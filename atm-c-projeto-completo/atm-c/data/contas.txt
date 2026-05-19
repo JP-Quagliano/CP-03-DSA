@@ -1,0 +1,4 @@
+1001;Joao Silva;1234;1500.00
+1002;Maria Souza;4321;2200.50
+1003;Carlos Lima;1111;850.75
+1004;Ana Pereira;2222;3000.00
